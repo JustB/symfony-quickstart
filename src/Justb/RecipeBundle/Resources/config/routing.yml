@@ -1,0 +1,6 @@
+justb_recipe_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: JustbRecipeBundle:Default:index }
+justb_recipe:
+  resource: "@JustbRecipeBundle/Controller/RecipeController.php"
+  type: annotation

@@ -1,0 +1,7 @@
+parameters:
+#    justb_recipe.example.class: Justb\RecipeBundle\Example
+
+services:
+#    justb_recipe.example:
+#        class: %justb_recipe.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
